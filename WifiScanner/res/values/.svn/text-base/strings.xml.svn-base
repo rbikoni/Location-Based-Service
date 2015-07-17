@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, WifiScanner!</string>
+    <string name="app_name">WifiScanner</string>
+<string name="spinner_angle_prompt">Select angle</string>
+</resources>

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/WifiRoll/!svn/ver/27/trunk/Software/WifiScanner
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/WifiRoll/!svn/ver/3/trunk/Software/WifiScanner/default.properties
+END
+(default package).ucd
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/WifiRoll/!svn/ver/37/trunk/Software/WifiScanner/(default%20package).ucd
+END
+.umlproject
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/WifiRoll/!svn/ver/37/trunk/Software/WifiScanner/.umlproject
+END
+.euml2
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/WifiRoll/!svn/ver/37/trunk/Software/WifiScanner/.euml2
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/WifiRoll/!svn/ver/26/trunk/Software/WifiScanner/AndroidManifest.xml
+END
+AndroidManifest.out.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/WifiRoll/!svn/ver/3/trunk/Software/WifiScanner/AndroidManifest.out.xml
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/WifiRoll/!svn/ver/3/trunk/Software/WifiScanner/.project
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/WifiRoll/!svn/ver/3/trunk/Software/WifiScanner/.classpath
+END

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+<LinearLayout android:id="@+id/LinearLayout04" android:layout_width="fill_parent" android:layout_marginLeft="15px" android:layout_height="wrap_content"><TextView android:id="@+id/TextView06" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Id" android:minWidth="100px" android:textSize="15px"></TextView><EditText android:id="@+id/EditText01" android:layout_height="wrap_content" android:layout_width="wrap_content" android:inputType="number"></EditText></LinearLayout>
+
+
+<TextView android:id="@+id/TextView02" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="15px" android:textSize="20px" android:text="Informationen"></TextView>
+<LinearLayout android:id="@+id/LinearLayout01" android:layout_width="wrap_content" android:layout_marginLeft="15px" android:layout_height="wrap_content"><TextView android:id="@+id/TextView03" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="x-Koordinate" android:minWidth="100px" android:textSize="15px"></TextView><EditText android:id="@+id/EditText02" android:layout_width="wrap_content" android:layout_height="wrap_content" android:inputType="number|numberDecimal"></EditText>
+
+</LinearLayout><LinearLayout android:id="@+id/LinearLayout02" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="15px"><TextView android:id="@+id/TextView04" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="y-Koordinate" android:minWidth="100px" android:textSize="15px"></TextView>
+<EditText android:id="@+id/EditText03" android:layout_width="wrap_content" android:layout_height="wrap_content" android:inputType="number|numberDecimal"></EditText>
+</LinearLayout><LinearLayout android:id="@+id/LinearLayout03" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="15px"><TextView android:id="@+id/TextView05" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="z-Koordinate" android:minWidth="100px" android:textSize="15px"></TextView><EditText android:id="@+id/EditText04" android:layout_width="wrap_content" android:layout_height="wrap_content" android:inputType="number|numberDecimal"></EditText>
+
+</LinearLayout><LinearLayout android:id="@+id/LinearLayout05" android:layout_height="wrap_content" android:layout_width="fill_parent" android:layout_marginLeft="15px"><TextView android:id="@+id/TextView07" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="100px" android:text="Angle" android:textSize="15px"></TextView>
+<Spinner android:id="@+id/Spinner01" android:layout_width="wrap_content" android:layout_height="wrap_content" android:prompt="@string/spinner_angle_prompt"></Spinner>
+</LinearLayout>
+
+
+
+
+
+
+<LinearLayout android:id="@+id/LinearLayout06" android:layout_height="wrap_content" android:layout_width="match_parent" android:layout_marginLeft="15px"><TextView android:id="@+id/TextView08" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="100px" android:text="Description" android:textSize="15px"></TextView>
+<EditText android:id="@+id/EditText05" android:layout_width="wrap_content" android:layout_height="wrap_content"></EditText>
+</LinearLayout>
+</LinearLayout>

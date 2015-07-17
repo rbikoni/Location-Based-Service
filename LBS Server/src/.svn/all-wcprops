@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/WifiRoll/!svn/ver/41/LBS%20Server/src
+END
+Algorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/WifiRoll/!svn/ver/42/LBS%20Server/src/Algorithm.java
+END
+Information.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/WifiRoll/!svn/ver/50/LBS%20Server/src/Information.java
+END
+JobError.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/WifiRoll/!svn/ver/41/LBS%20Server/src/JobError.java
+END
+Median.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/WifiRoll/!svn/ver/41/LBS%20Server/src/Median.java
+END
+Error.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/WifiRoll/!svn/ver/41/LBS%20Server/src/Error.java
+END
+JobThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/WifiRoll/!svn/ver/50/LBS%20Server/src/JobThread.java
+END
+Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/WifiRoll/!svn/ver/42/LBS%20Server/src/Message.java
+END
+ServerError.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/WifiRoll/!svn/ver/41/LBS%20Server/src/ServerError.java
+END
+Server.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/WifiRoll/!svn/ver/50/LBS%20Server/src/Server.java
+END
+LbsServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/WifiRoll/!svn/ver/45/LBS%20Server/src/LbsServer.java
+END
+MapDesktop.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/WifiRoll/!svn/ver/50/LBS%20Server/src/MapDesktop.java
+END
+LbsSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/WifiRoll/!svn/ver/50/LBS%20Server/src/LbsSettings.java
+END
+ClientError.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/WifiRoll/!svn/ver/41/LBS%20Server/src/ClientError.java
+END
+PositionInfos.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/WifiRoll/!svn/ver/44/LBS%20Server/src/PositionInfos.java
+END
+EuclideanDistanceAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/WifiRoll/!svn/ver/42/LBS%20Server/src/EuclideanDistanceAlgorithm.java
+END
+PositionInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/WifiRoll/!svn/ver/50/LBS%20Server/src/PositionInfo.java
+END
+Locator.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/WifiRoll/!svn/ver/50/LBS%20Server/src/Locator.java
+END
+PositionSpotContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/WifiRoll/!svn/ver/50/LBS%20Server/src/PositionSpotContainer.java
+END
+ClientThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/WifiRoll/!svn/ver/45/LBS%20Server/src/ClientThread.java
+END
+DatabaseAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/WifiRoll/!svn/ver/50/LBS%20Server/src/DatabaseAdapter.java
+END
+Strategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/WifiRoll/!svn/ver/50/LBS%20Server/src/Strategy.java
+END
+ControllerFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/WifiRoll/!svn/ver/50/LBS%20Server/src/ControllerFrame.java
+END
